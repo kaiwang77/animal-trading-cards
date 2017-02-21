@@ -1,0 +1,38 @@
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+ul {
+    list-style-type:none;
+    padding: 0
+}
+.border {
+    border-style: solid;
+    border-width: thin;
+}
+img {
+    width: 300px;
+    padding: 10px;
+}
+#card {
+    width: 320px;
+    border-radius: 10px;
+    background-color: #D4E9F7;
+}
+#info {
+    width: 282px;
+    padding: 8px;
+    padding-top: 0px;
+    margin: 10px;
+    margin-top: 0px;
+    background-color: #FFE97F
+}
+h3 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+body {
+    font-family: times;
+}
